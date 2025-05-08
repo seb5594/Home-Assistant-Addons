@@ -1,0 +1,3 @@
+[submodule "caddy-2"]
+	path = caddy-2
+	url = https://github.com/seb5594/Home-Assistant-Addon-Caddy-2.git
